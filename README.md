@@ -11,4 +11,3 @@ funcion =(ssfl)
 
 ´´´
 
-$x_2$
